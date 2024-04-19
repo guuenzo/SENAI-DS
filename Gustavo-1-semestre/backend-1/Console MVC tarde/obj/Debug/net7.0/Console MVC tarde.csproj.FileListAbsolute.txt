@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\bin\Debug\net7.0\Console MVC tarde.exe
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\bin\Debug\net7.0\Console MVC tarde.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\bin\Debug\net7.0\Console MVC tarde.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\bin\Debug\net7.0\Console MVC tarde.dll
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\bin\Debug\net7.0\Console MVC tarde.pdb
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.dll
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\refint\Console MVC tarde.dll
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.pdb
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\Console MVC tarde.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Console MVC tarde\obj\Debug\net7.0\ref\Console MVC tarde.dll

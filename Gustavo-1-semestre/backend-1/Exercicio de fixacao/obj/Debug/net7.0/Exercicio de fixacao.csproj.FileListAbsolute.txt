@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\bin\Debug\net7.0\Exercicio de fixacao.exe
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\bin\Debug\net7.0\Exercicio de fixacao.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\bin\Debug\net7.0\Exercicio de fixacao.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\bin\Debug\net7.0\Exercicio de fixacao.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\bin\Debug\net7.0\Exercicio de fixacao.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\refint\Exercicio de fixacao.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\Exercicio de fixacao.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio de fixacao\obj\Debug\net7.0\ref\Exercicio de fixacao.dll

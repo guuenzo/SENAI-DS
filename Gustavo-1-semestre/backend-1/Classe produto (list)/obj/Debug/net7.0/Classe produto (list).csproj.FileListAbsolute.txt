@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\bin\Debug\net7.0\Classe produto (list).exe
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\bin\Debug\net7.0\Classe produto (list).deps.json
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\bin\Debug\net7.0\Classe produto (list).runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\bin\Debug\net7.0\Classe produto (list).dll
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\bin\Debug\net7.0\Classe produto (list).pdb
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).dll
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\refint\Classe produto (list).dll
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).pdb
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\Classe produto (list).genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Classe produto (list)\obj\Debug\net7.0\ref\Classe produto (list).dll

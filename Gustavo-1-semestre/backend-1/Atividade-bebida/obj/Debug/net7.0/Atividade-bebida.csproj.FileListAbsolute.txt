@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\bin\Debug\net7.0\Atividade-bebida.exe
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\bin\Debug\net7.0\Atividade-bebida.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\bin\Debug\net7.0\Atividade-bebida.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\bin\Debug\net7.0\Atividade-bebida.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\bin\Debug\net7.0\Atividade-bebida.pdb
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\refint\Atividade-bebida.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.pdb
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\Atividade-bebida.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade-bebida\obj\Debug\net7.0\ref\Atividade-bebida.dll

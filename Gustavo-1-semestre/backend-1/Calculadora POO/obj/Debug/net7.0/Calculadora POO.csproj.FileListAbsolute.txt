@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\bin\Debug\net7.0\Calculadora POO.exe
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\bin\Debug\net7.0\Calculadora POO.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\bin\Debug\net7.0\Calculadora POO.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\bin\Debug\net7.0\Calculadora POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\bin\Debug\net7.0\Calculadora POO.pdb
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\refint\Calculadora POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.pdb
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\Calculadora POO.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Calculadora POO\obj\Debug\net7.0\ref\Calculadora POO.dll

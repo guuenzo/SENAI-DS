@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\bin\Debug\net7.0\atividade imposto.exe
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\bin\Debug\net7.0\atividade imposto.deps.json
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\bin\Debug\net7.0\atividade imposto.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\bin\Debug\net7.0\atividade imposto.dll
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\bin\Debug\net7.0\atividade imposto.pdb
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.dll
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\refint\atividade imposto.dll
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.pdb
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\atividade imposto.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\atividade imposto\obj\Debug\net7.0\ref\atividade imposto.dll

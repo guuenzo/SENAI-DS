@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Login</title>
+    <link rel="stylesheet" href="css/login.css">
+</head>
+
+<body>
+    <!-- header  -->
+    <header>
+        <div class="header-top">
+            <div class="layout-grid alinhamento-between-center">
+                <div class="contatos">
+                    <a class="phone">
+                        <img src="../projeto gamer/assets/icons/icone_telefone.svg" alt="Icone do telefone de contato">
+                        <p>(11) 0900-1010</p>
+                    </a>
+                    <a class="mail">
+                        <img src="../projeto gamer/assets/icons/icone_email.svg" alt="Icone de email de contato">
+                        <p>contato@gamer.com.br</p>
+                    </a>
+                </div>
+
+                <div class="midias-sociais">
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Facebook.svg" alt="Imagem link do facebook da empresa">
+                    </a>
+
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Linkedin.svg" alt="Imagem link do linkedin da empresa">
+                    </a>
+
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Instagram.svg"
+                            alt="Imagem link do Instagram da empresa">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="layout-grid alinhamento-between-center">
+                <!-- menu hamburguer visivel apenas no celular -->
+                <img onclick="mostrarMenu()" src="../projeto gamer/assets/icons/menu hamurguer (mobile).svg"
+                    alt="menu-hamburguer" class="menu-hamburger">
+
+                <img class="logo" src="../projeto gamer/assets/images/logotipo-gamer.svg"
+                    alt="imagem logotipo gamer com um controle de video game ao centro">
+
+                <nav class="menu" id="menu">
+                    <a href="index.html">Inicio</a>
+                    <a href="">Jogadores</a>
+                    <a href="">Equipes</a>
+                    <a href="">Noticias</a>
+
+                    <!-- visivel apenas no mobile -->
+                    <a class="phone">
+                        <img src="../projeto gamer/assets/icons/icone_telefone.svg" alt="Icone do telefone de contato">
+                        <p>(11) 0900-1010</p>
+                    </a>
+                    <a class="mail">
+                        <img src="../projeto gamer/assets/icons/icone_email.svg" alt="Icone de email de contato">
+                        <p>contato@gamer.com.br</p>
+                    </a>
+
+                    <div class="midias-sociais">
+                        <a href="">
+                            <img src="../projeto gamer/assets/icons/Facebook.svg"
+                                alt="Imagem link do facebook da empresa">
+                        </a>
+
+                        <a href="">
+                            <img src="../projeto gamer/assets/icons/Linkedin.svg"
+                                alt="Imagem link do linkedin da empresa">
+                        </a>
+
+                        <a href="">
+                            <img src="../projeto gamer/assets/icons/Instagram.svg"
+                                alt="Imagem link do Instagram da empresa">
+                        </a>
+                    </div>
+                </nav>
+
+                <!-- menu 3 pontinhos -->
+                <img onclick="mostrarBarra()" src="assets/icons/pontinhos.svg" alt="pontinhos" class="menu-pontinhos">
+
+                <div class="menu-usuarios" id="menu-lateral">
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Bonequinho.svg" alt="Icone do perfil">
+                    </a>
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Sacolinha.svg" alt="Icone do sacola">
+                    </a>
+                    <a href="">
+                        <img src="../projeto gamer/assets/icons/Lupa.svg" alt="Icone de pesquisa">
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </header>
+
+
+    <!-- main  -->
+
+    <main>
+        <article>
+            <form action="">
+                <div class="texto-login">
+                    <hr>
+                    <h1>login</h1>
+                </div>
+
+                <div class="campo">
+                    <img src="assets/icons/icone digite seu email.svg" alt="">
+                    <input type="email" id="email" placeholder="Digite seu e-mail:">
+                </div>
+
+                <div class="campo">
+                    <img src="assets/icons/icone digite sua senha.svg" alt="">
+                    <input type="password" id="senha" placeholder="Digite sua senha:">
+                </div>
+
+                <button>Logar</button>
+            </form>
+        </article>
+    </main>
+
+    <!-- footer -->
+
+    <footer>
+        <div class="gamer-footer">
+            <img src="assets/images/logotipo-gamer.svg" alt="">
+        </div>
+
+        <h1>Nosso sucesso na criação de soluções de negócios se deve em grande parte à nossa equipe talentosa e
+            altamente comprometida.</h1>
+
+        <div class="sociais-footer">
+            <a href="">
+                <img src="assets/icons/facebook footer.svg" alt="Icone facebook rodape">
+            </a>
+            <a href="">
+                <img src="assets/icons/Linkedin footer.svg" alt="Icone linkedin rodape">
+            </a>
+            <a href="">
+                <img src="assets/icons/Instagram footer.svg" alt="Icone instagram rodape">
+            </a>
+        </div>
+
+        <h2>Links Uteis</h2>
+        <hr>
+
+        <div class="nav-footer">
+            <nav class="links-footer">
+                <div class="linkss">
+                    <hr>
+                    <a href="index.html">Inicio</a>
+                </div>
+                <div class="linkss">
+                    <hr>
+                    <a href="">Login</a>
+                </div>
+                <div class="linkss">
+                    <hr>
+                    <a href="">Jogadores</a>
+                </div>
+                <div class="linkss">
+                    <hr>
+                    <a href="">Equipes</a>
+                </div>
+                <div class="linkss">
+                    <hr>
+                    <a href="">Noticias</a>
+                </div>
+            </nav>
+        </div>
+
+        <h2>Contatos</h2>
+        <hr>
+        <div class="contatos-footer">
+            <h3>Localizacao</h3>
+            <p>Rua Niterói, 180 - São Caetano do Sul- SP</p>
+
+            <h3>Junte-se a nos</h3>
+            <p>contato@gamer.com.br </p>
+
+            <h3>Telefone</h3>
+            <p>(11) 0900-1010</p>
+        </div>
+
+        <div class="newsletter">
+            <h2>Newsletter</h2>
+            <hr>
+        </div>
+
+        <div class="email-footer">
+            <input type="email" id="email" placeholder="Digite seu e-mail:">
+        </div>
+
+        <button>Enviar</button>
+
+        <div class="setinha">
+            <a href="">
+                <img src="assets/icons/Setinha.svg" alt="">
+            </a>
+        </div>
+
+        <div class="copyright">
+            <p>©Copyright2022-GamerJogosDigitais</p>
+        </div>
+
+
+    </footer>
+
+    <script>
+        function mostrarMenu() {
+            //pega a navbar pelo id 
+            document.getElementById("menu").classList.toggle("mostrar-menu");
+        }
+
+        function mostrarBarra() {
+            //pega o menu usuarios pelo id
+            document.getElementById("menu-lateral").classList.toggle("barra");
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\bin\Debug\net7.0\projeto de console idade.exe
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\bin\Debug\net7.0\projeto de console idade.deps.json
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\bin\Debug\net7.0\projeto de console idade.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\bin\Debug\net7.0\projeto de console idade.dll
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\bin\Debug\net7.0\projeto de console idade.pdb
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.dll
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\refint\projeto de console idade.dll
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.pdb
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\projeto de console idade.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\projeto de console idade\obj\Debug\net7.0\ref\projeto de console idade.dll

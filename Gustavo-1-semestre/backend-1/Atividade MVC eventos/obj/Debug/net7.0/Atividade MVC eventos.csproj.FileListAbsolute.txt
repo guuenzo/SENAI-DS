@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\bin\Debug\net7.0\Atividade MVC eventos.exe
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\bin\Debug\net7.0\Atividade MVC eventos.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\bin\Debug\net7.0\Atividade MVC eventos.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\bin\Debug\net7.0\Atividade MVC eventos.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\bin\Debug\net7.0\Atividade MVC eventos.pdb
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\refint\Atividade MVC eventos.dll
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.pdb
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\Atividade MVC eventos.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Atividade MVC eventos\obj\Debug\net7.0\ref\Atividade MVC eventos.dll

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        //arrays em javascript
+        // let frutas [];//array vacio
+
+        let frutas = ['banana', 'mamão', 'uva'];//array
+
+        console.log(frutas);
+
+        frutas.push('ciriguela');
+        frutas.push('amora');
+
+        frutas.sort();//ordena os elementos do array(em ordem alfabetica)
+
+        //  for (let i = 0; i < frutas.length; i++) {
+        //      console.log(`Fruta ${i + 1}: ${frutas[i]}`)            
+        //  }
+
+        frutas.forEach(function (f, i) {
+            console.log(`${i + 1}º Fruta: ${f}`);
+        })
+
+    </script>
+
+</body>
+
+</html>

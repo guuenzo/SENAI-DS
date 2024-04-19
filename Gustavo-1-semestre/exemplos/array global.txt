@@ -1,0 +1,27 @@
+string[] nomes = new string[5];
+string[] origens = new string[5];
+string[] destinos = new string[5];
+string[] datas = new string[5];
+
+
+cadastrarPassagens(nomes, origens, 0);
+cadastrarPassagens(nomes, origens, 1);
+
+
+for (int i = 0; i < nomes.Length; i++)
+{
+    Console.WriteLine($"Nome: {nomes[i]}");
+    Console.WriteLine($"Origem: {origens[i]}");
+    Console.WriteLine();
+    
+}
+
+
+
+// Aqui a passagem de parâmetros do array nomes veio por referência!!!!!!!!!!
+static void cadastrarPassagens(string[] ns, string[] os, int pos)
+{
+    ns[pos] = "Eduardo";
+    os[pos] = "Rio";
+}
+

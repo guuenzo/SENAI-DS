@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HealthClinic_tarde</name>
+    </assembly>
+    <members>
+        <member name="T:HealthClinic_tarde.Migrations.BD">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.BD.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.BD.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.BD.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:HealthClinic_tarde.Migrations.v2">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.v2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.v2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthClinic_tarde.Migrations.v2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\bin\Debug\net7.0\Estrutura switchcase.exe
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\bin\Debug\net7.0\Estrutura switchcase.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\bin\Debug\net7.0\Estrutura switchcase.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\bin\Debug\net7.0\Estrutura switchcase.dll
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\bin\Debug\net7.0\Estrutura switchcase.pdb
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.dll
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\refint\Estrutura switchcase.dll
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.pdb
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\Estrutura switchcase.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Estrutura switch-case\obj\Debug\net7.0\ref\Estrutura switchcase.dll

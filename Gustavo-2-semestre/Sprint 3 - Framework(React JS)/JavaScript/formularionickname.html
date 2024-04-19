@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form onsubmit="saudar()">
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" placeholder="Nome">
+        <br><br>
+
+        <label for="nickname">Nickname</label>
+        <input type="text" id="nickname" placeholder="Nickname">
+        <br><br>
+
+        <span id="saudacao"></span>
+<br>
+        <button>Run</button>
+    </form>
+
+    <script>
+        function saudar(){
+            event.preventDefault(); //Para o submit do formulário
+            
+            let nome = document.getElementById('nome').value;
+            let nickname = document.getElementById("nickname").value;
+
+            //checar se esta trazendo os valores do input no console
+            console.log(nome);
+            console.log(nickname);
+
+            //insere um texto no html
+            document.getElementById('saudacao').innerText = `Olá, ${nome.replace(nome, nickname)}`; 
+
+            //Interpolar o nickname
+            // alert(`Boa tarde, ${nickname}!`);
+        }
+    </script>
+</body>
+</html>

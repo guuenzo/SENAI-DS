@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\bin\Debug\net7.0\Exercicio dolar.exe
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\bin\Debug\net7.0\Exercicio dolar.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\bin\Debug\net7.0\Exercicio dolar.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\bin\Debug\net7.0\Exercicio dolar.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\bin\Debug\net7.0\Exercicio dolar.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\refint\Exercicio dolar.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\Exercicio dolar.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio dolar\obj\Debug\net7.0\ref\Exercicio dolar.dll

@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\bin\Debug\net7.0\Exercicio array.exe
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\bin\Debug\net7.0\Exercicio array.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\bin\Debug\net7.0\Exercicio array.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\bin\Debug\net7.0\Exercicio array.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\bin\Debug\net7.0\Exercicio array.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\refint\Exercicio array.dll
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.pdb
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\Exercicio array.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Exercicio array\obj\Debug\net7.0\ref\Exercicio array.dll

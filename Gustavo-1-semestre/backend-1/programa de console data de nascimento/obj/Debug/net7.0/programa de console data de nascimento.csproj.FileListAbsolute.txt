@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\bin\Debug\net7.0\programa de console data de nascimento.exe
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\bin\Debug\net7.0\programa de console data de nascimento.deps.json
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\bin\Debug\net7.0\programa de console data de nascimento.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\bin\Debug\net7.0\programa de console data de nascimento.dll
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\bin\Debug\net7.0\programa de console data de nascimento.pdb
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.dll
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\refint\programa de console data de nascimento.dll
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.pdb
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\programa de console data de nascimento.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\programa de console data de nascimento\obj\Debug\net7.0\ref\programa de console data de nascimento.dll

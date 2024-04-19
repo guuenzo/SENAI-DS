@@ -1,0 +1,521 @@
+/* Imports de fonts */
+@font-face {
+    font-family: Inter;
+    src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+@font-face {
+    font-family: Titillium blackk;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf)
+}
+
+@font-face {
+    font-family: Titillium bold;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf)
+}
+
+@font-face {
+    font-family: Titillium regular;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
+}
+
+@font-face {
+    font-family: Quicksand regular;
+    src: url(../assets/fonts/Quicksand/static/Quicksand-Regular.ttf);
+}
+
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* classes genericas */
+.mostrar-menu {
+    left: 0 !important;
+}
+
+.barra {
+    right: 0 !important;
+}
+
+.layout-grid {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+}
+
+/* justify-content align items */
+.alinhamento-between-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+body {
+    background-color: white;
+}
+
+/* mobile first */
+
+/* HEADER */
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    height: 60px;
+    background-color: #1B1426;
+    top: 0;
+    left: 0;
+}
+
+header .header-top {
+    display: none;
+}
+
+header .header-bottom {
+    height: 60px;
+}
+
+header .logo {
+    width: 86px;
+}
+
+header .header-bottom nav {
+    position: fixed;
+    top: 60px;
+    left: -80vw;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    padding-bottom: 20px;
+    width: 80vw;
+    height: calc(100vh - 60px);
+    background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
+    backdrop-filter: blur(45px);
+
+    transition: left 0.4s;
+}
+
+header .header-bottom nav>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    padding: 30px 0;
+    color: white;
+    font-size: 15px;
+    font-family: Inter;
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid #F9AA01;
+}
+
+header .header-bottom nav a:last-of-type {
+    border-bottom: none;
+}
+
+header .header-bottom nav .midias-sociais {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    justify-content: space-evenly;
+    /* border: 1px solid salmon; */
+}
+
+header .menu-usuarios {
+    display: flex;
+    position: fixed;
+    top: 60px;
+    right: -80vw;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid green; */
+    width: 66px;
+    background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
+    backdrop-filter: blur(45px);
+    height: 170px;
+    width: 66px;
+    /* padding: 30px; */
+    justify-content: space-around;
+    transition: right .4s;
+    z-index: 103;
+}
+
+article h1 {
+    display: flex;
+    font-family: Titillium blackk;
+    color: white;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 0px 7px #FD4255;
+}
+
+.banner {
+    margin-top: 60px;
+    background-image: url(../assets/images/valorant-pergunte-3-scaled\ 1.png);
+    width: 100%;
+    height: 606px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 85px;
+    background-size: cover;
+}
+
+article a {
+    display: flex;
+    background-color: #F9AA01;
+    display: flex;
+    color: black;
+    width: 170px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-family: Titillium bold;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+section {
+    /* width: 100%;
+    background-size: cover; */
+    background-color: #1B1426;
+    /* width: 375px; */
+    height: 590px;
+    padding-top: 65px;
+}
+
+section .jogos-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+/* Tablets >= 768px */
+@media screen and (min-width: 768px) {}
+
+/* Desktop >= 1200px*/
+@media screen and (min-width: 1200px) {
+    .layout-grid {
+        width: 100%;
+        max-width: 1200px;
+    }
+
+    /* header */
+    header { 
+        position: static;
+        height: 140px;
+        width: 100%;
+    }
+
+    header .header-top {
+        display: block;
+        height: 50px;
+        border: 2px solid #F9AA01;
+    }
+
+    header .header-top .contatos {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 450px;
+        border: 2 px solid #FD4255;
+     }
+
+     header .header-top .contatos > a {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        width: 200px;
+        /* border-bottom: 2px solid #F9AA01; */
+     }
+     
+    header .header-top .midias-sociais {
+        display: flex;
+        justify-content: space-between;
+        width: 140px;
+        /* border: 2 px solid #FD4255; */
+    }
+    
+    /* esconde os elementos desnecessários */
+    header .header-bottom .menu-hamburger,
+    header .header-bottom .menu-pontinhos,
+    header .header-bottom nav .phone,
+    header .header-bottom nav .mail,
+    header .header-bottom nav .midias-sociais {
+        display: none;
+    }
+
+    header .header-bottom {
+        height: 90px;
+    }
+
+    header .logo {
+        width: 200px;
+    }
+
+    header .header-bottom nav {
+        position: static;
+        width: 440px;
+        height: 50px;
+        flex-direction: row;
+        align-items: center;
+        /* background-color: red; */
+        justify-content: space-between;
+    }
+
+    header .header-bottom .menu-usuarios {
+        position: static;
+        width: 140px;
+        flex-direction: row;
+        height: auto;
+        background-color: transparent;
+        background-image: none;
+    }
+
+    header .header-bottom nav {
+        position: static;
+        width: 440px;
+        height: 50px;
+        padding-bottom: 0;
+        flex-direction: row;
+        align-items: center;
+        /* background-color: red; */
+        justify-content: space-between;
+    }
+
+    header .header-bottom nav > a {
+        font-size: 14px;
+        padding: 0;
+        border: none;
+    }
+
+    header .header-bottom .menu-usuarios {
+        position: static;
+        width: 140px;
+        flex-direction: row;
+        justify-content: space-between;
+        height: auto;
+        background-color: transparent;
+        background-image: none;
+    }
+
+
+    header .contatos {
+        color: white;
+    font-family: Inter;
+    font-size: 14px;
+    }
+
+    article h1 {
+        display: flex;
+        font-family: Titillium blackk;
+        color: white;
+        font-size: 80px;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 0px 0px 7px #FD4255;
+    }
+    
+
+/* MAIN */
+main {
+    margin-top: 0;
+}
+
+.banner {
+    margin-top: 0;
+}
+
+main .banner {
+    height: 722px;
+    background-image: url(../assets/images/Banner\ desktop.png);
+}
+
+main .jogos .jogos-flex {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+}
+
+main .jogos img{
+    width: 556px;
+    height: 313px;
+} 
+}
+
+/* FOOTER */
+
+footer {
+    background-image: url(../assets/images/backgroung_footer.png);
+}
+
+footer .gamer-footer {
+    display: flex;
+    width: 110px; 
+    height: 32px; 
+    display: flex; 
+    /* justify-content: center; */ 
+    /* align-items: center; */ 
+    margin-left: 125px;
+}
+
+footer h1 {
+    font-family: Quicksand regular;
+    font-size: 14px;
+    color: white;
+}
+
+footer .contatos-footer {
+    color: white;
+}
+
+footer h3 {
+    color: #F9AA01;
+    font-family: Titillium bold;
+    font-size: 16px;
+}
+
+footer .contatos-footer p {
+    font-family: Titillium bold;
+    font-size: 16px;
+}
+
+footer h2 {
+    font-family: Titillium blackk;
+    color: white;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+
+footer > hr {
+    width: 113px;
+    border: 2px solid #F9AA01;
+    margin-left: 20px;
+    margin-bottom: 35px;
+}
+
+footer nav a {
+font-family: Titillium bold;
+color: white;
+text-decoration: none;
+font-size: 16px;
+}
+
+footer .nav-footer  hr {
+   /* color: #F9AA01; */
+    border: none;
+    border: 1px solid #F9AA01;
+    background-color: #F9AA01;
+    width: 15px;
+    height: 1px;
+}
+
+footer .newsletter hr {
+    width: 113px;
+    border: 2px solid #F9AA01;
+    margin-left: 20px;
+}
+
+footer .links-footer {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+footer .links-footer .linkss {
+display: flex;
+align-items: center;
+gap: 10px;
+/* border: 2px solid aqua; */
+width: 100px;
+}
+
+footer .email-footer input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+    width: 333px;
+    height: 40px;
+    
+    /* margin-top: 75px;
+    margin-left: 25px; */
+    /* efeito da borda e do fundo glass */
+    border: 2px solid transparent;
+    border-radius: 8px;
+    background:
+        /* fundo */
+        linear-gradient(to right bottom, rgba(27, 20, 38, .6), rgba(60, 3, 65, .38)) padding-box,
+        /* fundo borda */
+        linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
+    backdrop-filter: blur(4px);
+    /* margin-left: 25px;
+    margin-top: 40px; */
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+footer  .email-footer input::placeholder {
+   color: white;
+}
+
+footer .email-footer input {
+    outline: none;
+    color: white;
+}
+
+footer button {
+    width: 333px;
+    height: 40px;
+    background-color: #F9AA01;
+    border: none;
+    border-radius: 8px;
+    font-size: 24px;
+    font-family: Titillium bold;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+footer .copyright {
+    padding-top: 65px;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+
+footer .setinha {
+    padding-top: 90px;
+    padding-left: 310px;
+}
+
+
+
+/* efeito da borda e do fundo glass */
+/* border: 2px solid transparent;
+border-radius: 8px;
+background:
+    /* fundo */
+/* linear-gradient(to right bottom, rgba(27, 20, 38, .6), rgba(60, 3, 65, .38)) padding-box, */
+/* fundo borda */
+/* linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box; */
+/* backdrop-filter: blur(4px); */
+

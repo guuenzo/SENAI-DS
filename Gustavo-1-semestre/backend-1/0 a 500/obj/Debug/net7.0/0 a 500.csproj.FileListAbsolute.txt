@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\bin\Debug\net7.0\0 a 500.exe
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\bin\Debug\net7.0\0 a 500.deps.json
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\bin\Debug\net7.0\0 a 500.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\bin\Debug\net7.0\0 a 500.dll
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\bin\Debug\net7.0\0 a 500.pdb
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.dll
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\refint\0 a 500.dll
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.pdb
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\0 a 500.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\0 a 500\obj\Debug\net7.0\ref\0 a 500.dll

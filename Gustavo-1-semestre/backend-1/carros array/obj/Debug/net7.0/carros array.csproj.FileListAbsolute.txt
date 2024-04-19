@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\carros array\bin\Debug\net7.0\carros array.exe
+C:\Users\49816214857\Desktop\Gustavo\carros array\bin\Debug\net7.0\carros array.deps.json
+C:\Users\49816214857\Desktop\Gustavo\carros array\bin\Debug\net7.0\carros array.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\carros array\bin\Debug\net7.0\carros array.dll
+C:\Users\49816214857\Desktop\Gustavo\carros array\bin\Debug\net7.0\carros array.pdb
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.dll
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\refint\carros array.dll
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.pdb
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\carros array.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\carros array\obj\Debug\net7.0\ref\carros array.dll

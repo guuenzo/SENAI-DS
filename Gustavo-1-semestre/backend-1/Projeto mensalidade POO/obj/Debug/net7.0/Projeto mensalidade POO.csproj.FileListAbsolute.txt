@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\bin\Debug\net7.0\Projeto mensalidade POO.exe
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\bin\Debug\net7.0\Projeto mensalidade POO.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\bin\Debug\net7.0\Projeto mensalidade POO.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\bin\Debug\net7.0\Projeto mensalidade POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\bin\Debug\net7.0\Projeto mensalidade POO.pdb
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\refint\Projeto mensalidade POO.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.pdb
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\Projeto mensalidade POO.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto mensalidade POO\obj\Debug\net7.0\ref\Projeto mensalidade POO.dll

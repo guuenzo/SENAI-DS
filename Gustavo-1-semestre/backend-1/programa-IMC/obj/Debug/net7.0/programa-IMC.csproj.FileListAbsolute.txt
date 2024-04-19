@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\bin\Debug\net7.0\programa-IMC.exe
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\bin\Debug\net7.0\programa-IMC.deps.json
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\bin\Debug\net7.0\programa-IMC.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\bin\Debug\net7.0\programa-IMC.dll
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\bin\Debug\net7.0\programa-IMC.pdb
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.dll
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\refint\programa-IMC.dll
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.pdb
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\programa-IMC.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\programa-IMC\obj\Debug\net7.0\ref\programa-IMC.dll

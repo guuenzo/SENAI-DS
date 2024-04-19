@@ -1,0 +1,15 @@
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\bin\Debug\net7.0\Projeto produto interface.exe
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\bin\Debug\net7.0\Projeto produto interface.deps.json
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\bin\Debug\net7.0\Projeto produto interface.runtimeconfig.json
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\bin\Debug\net7.0\Projeto produto interface.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\bin\Debug\net7.0\Projeto produto interface.pdb
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.csproj.AssemblyReference.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.AssemblyInfoInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.AssemblyInfo.cs
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\refint\Projeto produto interface.dll
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.pdb
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.genruntimeconfig.cache
+C:\Users\49816214857\Desktop\Gustavo\Projeto produto interface\obj\Debug\net7.0\ref\Projeto produto interface.dll

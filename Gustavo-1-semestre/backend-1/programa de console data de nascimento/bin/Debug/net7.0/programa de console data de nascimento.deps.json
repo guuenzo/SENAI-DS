@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "programa de console data de nascimento/1.0.0": {
+        "runtime": {
+          "programa de console data de nascimento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa de console data de nascimento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
