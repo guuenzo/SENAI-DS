@@ -20,16 +20,18 @@ namespace WebAPI.Controllers
             _exameRepository = exameRepository;
         }
 
+        [RequestSizeLimit(100_000_000)]
         [HttpPost("Cadastrar")]
         public async Task<IActionResult> Post([FromForm] ExameViewModel exameViewModel)
         {
             try
             {
-                if (exameViewModel.Image == null || exameViewModel == null)
+                if (exameViewModel.Imagem == null || exameViewModel == null)
                 {
-                    return BadRequest("Nenhuma imagem fornecida");
+                    return BadRequest("Nenhuma imagem fornecida !!!");
                 }
-                using (var stream = exameViewModel.Image.OpenReadStream())
+
+                using (var stream = exameViewModel.Imagem.OpenReadStream())
                 {
                     var result = await _ocrService.RecognizeTextAsync(stream);
 
@@ -42,8 +44,9 @@ namespace WebAPI.Controllers
 
                     _exameRepository.Cadastrar(exame);
 
-                    return Ok(exame);
-                }
+                   return Ok(exame);
+                
+            }
             }
             catch (Exception ex)
             {

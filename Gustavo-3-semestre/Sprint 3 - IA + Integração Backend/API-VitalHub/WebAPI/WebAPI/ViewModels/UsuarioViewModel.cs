@@ -3,14 +3,12 @@ using System.Text.Json.Serialization;
 
 namespace WebAPI.ViewModels
 {
-    public class ExameViewModel
+    public class UsuarioViewModel
     {
-        public Guid ConsultaId { get; set; }
-
         [JsonIgnore]
         [NotMapped]
-        public IFormFile Imagem { get; set; }
+        public IFormFile? Arquivo {  get; set; }
 
-        public string Descricao { get; set; }
+        public string? Foto { get; set; }
     }
 }

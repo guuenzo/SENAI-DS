@@ -52,33 +52,35 @@ namespace WebAPI.Controllers
 
         //CRIE UM CONTROLLER PARA VALIDAR O CODIGO ENVIADO PARA O EMAIL
         //SE O CODIGO FOR IGUAL, RESETE O CODIGO ANTERIOR NO BANCO E DEVOLVA UM STATUS CODE INFORMANDO SE O CODIGO E INVALIDO
-        [HttpPost("Verificar código")]
-        public async Task<IActionResult> VerifyRecoveryCodePassword(int codigo)
+        [HttpPost("ValidarCodigo")]
+        public async Task<IActionResult> ValidatePasswordRecoveryCode(string email, int codigo)
         {
             try
             {
-                var user = await _context.Usuarios.FirstOrDefaultAsync(x => x.CodRecupSenha == codigo);
+                var user = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
 
                 if (user == null)
                 {
-                    return (Ok("Usuário encontrado"));
+                    return NotFound("Usuario nao encontrado");
                 }
-
                 if (user.CodRecupSenha != codigo)
                 {
-                    return (BadRequest("Código inválido"));
+                    return BadRequest("Codigo de recupercao invalido");
+
                 }
 
                 user.CodRecupSenha = null;
 
                 await _context.SaveChangesAsync();
 
-                return (NotFound("Código válido"));
+                return Ok("Codigo de recuperacao valido");
             }
-            catch (Exception erro)
+            catch (Exception ex)
             {
-                return (NotFound(erro.Message));
+
+                return BadRequest(ex.Message);
             }
         }
+
     }
 }

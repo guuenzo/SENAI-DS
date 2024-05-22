@@ -25,7 +25,7 @@ namespace WebAPI.Utils.OCR
             }
             catch (Exception erro)
             {
-                return erro.Message;
+                return "Erro ao reconhecer o texto: " + erro.Message;
             }
         } 
         private static string ProcessRecognitionResult(OcrResult result)

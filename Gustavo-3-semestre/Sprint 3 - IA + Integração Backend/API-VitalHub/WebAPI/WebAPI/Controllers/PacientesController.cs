@@ -96,13 +96,17 @@ namespace WebAPI.Controllers
 
                 //chamar o metodo para o upload da imagem
                 //define o nome do container do blob
-                var containerName = "containervitalhubg16enzo";
+                if (pacienteModel.Arquivo != null)
+                {
+                    var containerName = "containervitalhubg16enzo";
 
-                //define a string de conexao 
-                var connectionString = "DefaultEndpointsProtocol=https;AccountName=blobvitalhubg16enzo;AccountKey=oE4zwTcqqxKfuErbVv7o9ETdAbHzELSZDt7o60W5hQ07zfFdTU4YuZIGtOyVKRjh3E3GzJwRnAHn+AStsOUjgA==;EndpointSuffix=core.windows.net";
+                    //define a string de conexao 
+                    var connectionString = "DefaultEndpointsProtocol=https;AccountName=blobvitalhubg16enzo;AccountKey=oE4zwTcqqxKfuErbVv7o9ETdAbHzELSZDt7o60W5hQ07zfFdTU4YuZIGtOyVKRjh3E3GzJwRnAHn+AStsOUjgA==;EndpointSuffix=core.windows.net";
 
-                //aqui vamos chamar o metodo para upload da imagem
-                user.Foto = await AzureBlobStorageHelper.UploadImageBlobAsync(pacienteModel.Arquivo!, connectionString, containerName);
+                    //aqui vamos chamar o metodo para upload da imagem
+                    user.Foto = await AzureBlobStorageHelper.UploadImageBlobAsync(pacienteModel.Arquivo!, connectionString, containerName);
+                }
+
                 user.Senha = pacienteModel.Senha;
 
                 user.Paciente = new Paciente();
