@@ -28,16 +28,23 @@ namespace MinimalAPIMongoDB.Controllers
         {
             try
             {
-                //var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
-                //return Ok(orders);
+                var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
 
-                Order order = new Order();
-                List<Product> products = await _product.Find(x => x.Id == order.Id).ToListAsync();
+                foreach (var order in orders)
+                {
+                    if (order.ProductId != null)
+                    {
+                        var filter = Builders<Product>.Filter.In(x => x.Id, order.ProductId);
 
+                        order.Products = await _product.Find(filter).ToListAsync();
+                    }
 
-                order.Products = products;
-
-                return Ok(order);
+                    if (order.ClientId != null)
+                    {
+                        order.Client = await _client.Find(x => x.Id == order.ClientId).FirstOrDefaultAsync();
+                    }
+                }
+                return Ok(orders);
             }
             catch (Exception ex)
             {
@@ -46,11 +53,30 @@ namespace MinimalAPIMongoDB.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult GetById(string id)
+        public async Task<ActionResult<Order>> GetById(string id)
         {
             try
             {
-                return Ok(_order.Find(x => x.Id == id).FirstOrDefault());
+                var order = await _order.Find(x => x.Id == id).FirstOrDefaultAsync();
+
+                if (order == null)
+                {
+                    return BadRequest("Pedido não encontrado.");
+                }
+
+                if (order.ProductId != null)
+                {
+                    var filter = Builders<Product>.Filter.In(x => x.Id, order.ProductId);
+
+                    order.Products = await _product.Find(filter).ToListAsync();
+                }
+
+                if (order.ClientId != null)
+                {
+                    order.Client = await _client.Find(x => x.Id == order.ClientId).FirstOrDefaultAsync();
+                }
+
+                return Ok(order);
             }
             catch (Exception ex)
             {
@@ -77,7 +103,7 @@ namespace MinimalAPIMongoDB.Controllers
                 {
                     return NotFound("Cliente não existe!");
                 }
-                order.Client = client;
+                //order.Client = client;
 
                 await _order.InsertOneAsync(order);
 
