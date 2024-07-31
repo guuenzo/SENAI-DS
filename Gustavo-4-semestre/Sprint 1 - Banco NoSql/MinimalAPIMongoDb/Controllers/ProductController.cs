@@ -54,7 +54,7 @@ namespace MinimalAPIMongoDB.Controllers
                 //var produtoBuscado = new Product();
                 var produtoBuscado = _product.Find(p => p.Id == id).FirstOrDefault();
 
-                return Ok(produtoBuscado);
+                return produtoBuscado is not null ? Ok(produtoBuscado) : NotFound("Produto não encontrado");
             }
             catch (Exception ex)
             {
@@ -78,26 +78,28 @@ namespace MinimalAPIMongoDB.Controllers
             }
         }
 
-
-        /// <summary>
-        /// A FAZEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER
-        /// </summary>
-        /// <param name="id"></param>
-        /// <param name="produto"></param>
-        /// <returns></returns>
         [HttpPut]
-        public ActionResult Put(string id, Product produto)
+        public async Task<ActionResult> Update(Product product)
         {
             try
             {
-                
+                //buscar por id (filtro)
+                var filter = Builders<Product>.Filter.Eq(x => x.Id, product.Id);
+
+                if (filter != null)
+                {
+                    //substituindo o objeto buscado pelo novo objeto
+                    await _product.ReplaceOneAsync(filter, product);
+
+                    return Ok();
+                }
+
+                return NotFound();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                return BadRequest(ex.Message);
             }
-
         }
     }
 }
