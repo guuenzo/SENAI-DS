@@ -1,70 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{72BE6190-D009-43A9-8C99-D2E5A7C99330}|..\\InventarioProdutos.Test\\InventarioProdutos.Test.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\conversaotemperaturas\\inventarioprodutos.test\\inventarioprodutosunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\conversaotemperaturas\\inventarioprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\conversaotemperaturas\\inventarioprodutos\\inventarioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|solutionrelative:inventarioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T19:23:47.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventarioProdutosUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
-              "RelativeDocumentMoniker": "..\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
-              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
-              "RelativeToolTip": "..\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBYAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:21:52.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventarioProduto.cs",
-              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos\\InventarioProduto.cs",
-              "RelativeDocumentMoniker": "InventarioProduto.cs",
-              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos\\InventarioProduto.cs",
-              "RelativeToolTip": "InventarioProduto.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:35:38.307Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

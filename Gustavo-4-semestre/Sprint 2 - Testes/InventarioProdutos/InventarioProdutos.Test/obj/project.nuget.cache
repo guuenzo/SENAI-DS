@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gq9lrrxW4SUH6vJN1gKuCuuHvpOILZgNvouckIXyvEgrHxG/qdeSrDLMRF34gNoMfPxbZLr81zx/UowekbTJmw==",
+  "dgSpecHash": "5egUCGxf4qRTiGx18JOR5xYIYx6oDvETBHN6rsQYM0ohBUsAYX5CusCGnSoZaBlBYePs+XKSTfZqrJLHkTNBvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ConversaoTemperaturas\\InventarioProdutos.Test\\InventarioProdutos.Test.csproj",
+  "projectFilePath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos.Test\\InventarioProdutos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\49816214857\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\49816214857\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
