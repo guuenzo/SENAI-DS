@@ -10,7 +10,6 @@ namespace InventarioProdutos.Test
             produto1.Nome = "banana";
             produto1.Quantidade = 1;
             produto2.Nome = "banana";
-            produto2.Quantidade = 1;
             List<InventarioProduto.Produto> inventario = new List<InventarioProduto.Produto>();
             InventarioProduto.AdicionarProduto(produto1, inventario);
             InventarioProduto.AdicionarProduto(produto2, inventario);

@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE6190-D009-43A9-8C99-D2E5A7C99330}|..\\InventarioProdutos.Test\\InventarioProdutos.Test.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\inventarioprodutos\\inventarioprodutos.test\\inventarioprodutosunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\inventarioprodutos\\inventarioprodutos\\inventarioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80F8FCA-1A8C-408D-B518-E02157FD02B8}|InventarioProdutos.csproj|solutionrelative:inventarioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventarioProdutosUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
+              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
+              "RelativeToolTip": "..\\InventarioProdutos.Test\\InventarioProdutosUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:13:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioProduto.cs",
+              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos\\InventarioProduto.cs",
+              "RelativeDocumentMoniker": "InventarioProduto.cs",
+              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\InventarioProdutos\\InventarioProdutos\\InventarioProduto.cs",
+              "RelativeToolTip": "InventarioProduto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:12:43.775Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
