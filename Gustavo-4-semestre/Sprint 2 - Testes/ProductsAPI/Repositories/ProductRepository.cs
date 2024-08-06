@@ -40,9 +40,9 @@ namespace ProductsAPI.Repositories
             _ctx.SaveChanges();
         }
 
-        public void Put(Product product)
+        public void Put(Guid id,Product product)
         {
-            var newProduct = _ctx.Products.FirstOrDefault(x => x.IdProduct == product.IdProduct);
+            var newProduct = _ctx.Products.FirstOrDefault(x => x.IdProduct == id);
 
             if (newProduct != null)
             {

@@ -10,7 +10,7 @@ namespace ProductsAPI.Interfaces
 
         public void Post (Product product);
 
-        public void Put (Product product);
+        public void Put (Guid id, Product product);
 
         public void Delete (Guid id);
     }

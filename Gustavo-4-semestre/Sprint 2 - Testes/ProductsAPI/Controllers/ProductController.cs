@@ -45,11 +45,11 @@ namespace ProductsAPI.Controllers
         }
 
         [HttpPatch]
-        public IActionResult Put(Product product)
+        public IActionResult Put(Guid id, Product product)
         {
             try
             {
-                _productRepository.Put(product);
+                _productRepository.Put(id, product);
                 return Ok();
             }
             catch (Exception ex)

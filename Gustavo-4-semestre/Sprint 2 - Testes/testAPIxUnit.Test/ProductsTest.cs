@@ -73,5 +73,43 @@ namespace testAPIxUnit.Test
 
             Assert.Equal(produto, result);
         }
+
+        [Fact]
+        public void Delete()
+        {
+            var id = Guid.NewGuid();
+
+            var productList = new List<Product>
+            {
+                new Product { IdProduct = id,Name = "Produto1", Price = 500 },
+            };
+
+            var mockRepository = new Mock<IProductRepository>();
+
+            var produto = productList.FirstOrDefault(x => x.IdProduct == id);
+
+            mockRepository.Setup(x => x.Delete(id)).Callback<Guid>(x => productList.Remove(produto)).Verifiable();
+
+            mockRepository.Object.Delete(id);
+
+            mockRepository.Verify(x=> x.Delete(id), Times.Once());
+
+            Assert.Equal(0, productList.Count);
+        }
+
+        [Fact]
+        public void Put()
+        {
+            Product product = new Product { IdProduct = Guid.NewGuid(), Name = "boné nike", Price = 110 };
+            Product newProduct = new Product { Name = "boné lacoste", Price = 250 };
+
+            var mockRepository = new Mock<IProductRepository>();
+
+            mockRepository.Setup(x => x.Put(product.IdProduct, newProduct)).Callback(() => product.Name = newProduct.Name);
+
+            mockRepository.Object.Put(product.IdProduct, newProduct);
+
+            Assert.Equal(product.Name, newProduct.Name);
+        }
     }
 }
