@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\productsapi\\context\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|solutionrelative:context\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E31F8478-DAD4-47D9-BFEA-A1EBA64C57A5}|..\\testAPIxUnit.Test\\testAPIxUnit.Test.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\testapixunit.test\\productstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\productsapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|c:\\users\\49816214857\\enzo\\senai-ds\\gustavo-4-semestre\\sprint 2 - testes\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90F3FCB-8682-417D-8BF2-3B3F1E7BF324}|ProductsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,11 +33,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductsAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Context\\ProductsAPIContext.cs",
+              "RelativeDocumentMoniker": "Context\\ProductsAPIContext.cs",
+              "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Context\\ProductsAPIContext.cs",
+              "RelativeToolTip": "Context\\ProductsAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:30:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -41,25 +58,23 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T20:14:19.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:14:19.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAA7wCsAAAAJAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T20:13:51.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:13:51.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
@@ -67,12 +82,11 @@
               "RelativeToolTip": "Interfaces\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T20:13:38.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:13:38.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\ProductsAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -84,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductsTest.cs",
               "DocumentMoniker": "C:\\Users\\49816214857\\ENZO\\SENAI-DS\\Gustavo-4-semestre\\Sprint 2 - Testes\\testAPIxUnit.Test\\ProductsTest.cs",
               "RelativeDocumentMoniker": "..\\testAPIxUnit.Test\\ProductsTest.cs",
@@ -92,8 +106,7 @@
               "RelativeToolTip": "..\\testAPIxUnit.Test\\ProductsTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T17:31:00.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T17:31:00.124Z"
             }
           ]
         }

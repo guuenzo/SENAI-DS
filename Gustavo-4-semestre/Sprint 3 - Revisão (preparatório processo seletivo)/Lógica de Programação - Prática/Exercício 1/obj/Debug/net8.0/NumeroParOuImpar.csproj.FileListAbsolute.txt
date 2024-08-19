@@ -1,0 +1,15 @@
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\bin\Debug\net8.0\NumeroParOuImpar.exe
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\bin\Debug\net8.0\NumeroParOuImpar.deps.json
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\bin\Debug\net8.0\NumeroParOuImpar.runtimeconfig.json
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\bin\Debug\net8.0\NumeroParOuImpar.dll
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\bin\Debug\net8.0\NumeroParOuImpar.pdb
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.AssemblyInfoInputs.cache
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.AssemblyInfo.cs
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.sourcelink.json
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.dll
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\refint\NumeroParOuImpar.dll
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.pdb
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\NumeroParOuImpar.genruntimeconfig.cache
+C:\Users\49816214857\ENZO\SENAI-DS\Gustavo-4-semestre\Sprint 3 - Revisão (preparatório processo seletivo)\Lógica de Programação - Prática\NumeroParOuImpar\obj\Debug\net8.0\ref\NumeroParOuImpar.dll
